@@ -11,8 +11,10 @@
 
 * 4 Включите добавленный VPN-тоннель, переведя переключатель рядом с его названием в положение «Вкл».
 <img width="320" alt="Screenshot_20230325-162552" src="https://user-images.githubusercontent.com/24189833/227726720-d22a9f34-1bbe-480c-b8bf-62bfcad4073c.png">
+
 ## Готово, вы подключены к быстрому VPN!
-После подключения проверьте, изменился ли ваш IP-адрес. Для этого откройте сайт https://www.reg.ru/web-tools/myip и там будет указан ваш новый IP-адрес и локация.
+После подключения проверьте, изменился ли ваш IP-адрес. Для этого откройте сайт https://www.reg.ru/web-tools/myip или https://yandex.ru/internet и там будет указан ваш новый IP-адрес и локация.
+
 <img width="320" alt="Screenshot_20230325-163455" src="https://user-images.githubusercontent.com/24189833/227727183-47a8b900-3883-461a-aa00-c04202579c9b.png">
 
 
