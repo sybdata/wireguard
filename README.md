@@ -1,7 +1,7 @@
 # Как настроить WireGuard на Android
 ## Пошаговая инструкция по настройке WireGuard на Android для подключения к sybdataVPN
-### 1 Установите WireGuard из магазина приложений Play Маркет 
-### 2 Откройте установленное приложение WireGuard. Нажмите кнопку «+» в правом нижнем углу, а затем – «сканировать QR-КОД». 
+* 1 Установите WireGuard из магазина приложений Play Маркет 
+* 2 Откройте установленное приложение WireGuard. Нажмите кнопку «+» в правом нижнем углу, а затем – «сканировать QR-КОД». 
 
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/denisix/wireguard?style=flat-square)
 ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/denisix/wireguard?style=flat-square)
