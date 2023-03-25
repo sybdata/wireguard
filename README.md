@@ -104,4 +104,4 @@ Adding a **new client** peer is easy:
 docker-compose exec wireguard addclient client1
 ```
 
-> P.S.: Please give [this repo](https://github.com/denisix/wireguard) a star if you like it :wink:
+> P.S.: Please give [this repo](https://github.com/sybdata/wireguard) a star if you like it :wink:
