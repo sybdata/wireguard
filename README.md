@@ -5,9 +5,18 @@
 
 * 2 Откройте установленное приложение WireGuard. Нажмите кнопку «+» в правом нижнем углу, а затем – «сканировать QR-КОД». 
 <img width="320" alt="image_2x66kj" src="https://user-images.githubusercontent.com/24189833/227725540-e2de4299-e434-4a18-8c0e-b446359747e3.png"> <img width="320" alt="Screenshot_20230324-220500" src="https://user-images.githubusercontent.com/24189833/227726059-5766761a-4d36-4240-882d-75a1b47911e7.png">
-
-* 3 Назовите соединение для себя(свободный выбор)
+  
+* 3 Назовите соединение для себя(свободный выбор), и нажмите на кнопку "добавитьтоннель" ("Tunnel erstellen")
 <img width="320" alt="Screenshot_20230324-221144" src="https://user-images.githubusercontent.com/24189833/227726023-e6956be0-5bef-4e11-9498-6b2c9eaa9b4f.png">
+
+* 4 Включите добавленный VPN-тоннель, переведя переключатель рядом с его названием в положение «Вкл».
+<img width="320" alt="Screenshot_20230325-162552" src="https://user-images.githubusercontent.com/24189833/227726720-d22a9f34-1bbe-480c-b8bf-62bfcad4073c.png">
+## Готово, вы подключены к быстрому VPN!
+После подключения проверьте, изменился ли ваш IP-адрес. Для этого откройте сайт https://www.reg.ru/web-tools/myip и там будет указан ваш новый IP-адрес и локация.
+
+
+
+
 
 
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/denisix/wireguard?style=flat-square)
