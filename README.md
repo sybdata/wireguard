@@ -4,7 +4,10 @@
 <img width="974" alt="2023-03-25" src="https://user-images.githubusercontent.com/24189833/227725488-571248a5-6f40-437f-bbe5-2db34bbd9877.png">
 
 * 2 Откройте установленное приложение WireGuard. Нажмите кнопку «+» в правом нижнем углу, а затем – «сканировать QR-КОД». 
-<img width="320" alt="image_2x66kj" src="https://user-images.githubusercontent.com/24189833/227725540-e2de4299-e434-4a18-8c0e-b446359747e3.png"> <img width="320" alt="Screenshot_20230324-220500" src="https://user-images.githubusercontent.com/24189833/227725879-88083444-d939-41e8-8964-1debc57f1762.png">
+<img width="320" alt="image_2x66kj" src="https://user-images.githubusercontent.com/24189833/227725540-e2de4299-e434-4a18-8c0e-b446359747e3.png"> <img width="320" alt="Screenshot_20230324-220500" src="https://user-images.githubusercontent.com/24189833/227726059-5766761a-4d36-4240-882d-75a1b47911e7.png">
+
+* 3 Назовите соединение для себя(свободный выбор)
+<img width="320" alt="Screenshot_20230324-221144" src="https://user-images.githubusercontent.com/24189833/227726023-e6956be0-5bef-4e11-9498-6b2c9eaa9b4f.png">
 
 
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/denisix/wireguard?style=flat-square)
